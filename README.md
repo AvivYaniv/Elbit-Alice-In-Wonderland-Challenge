@@ -5,3 +5,24 @@
 <p align="center">
     <img src="https://github.com/AvivYaniv/Elbit-Alice-In-Wonderland-Challenge/blob/main/logo/ElbitLogo.png" width="30%"/>
 <p/>
+
+## Level 1
+
+<p align="center">
+    <img src="https://github.com/AvivYaniv/Elbit-Alice-In-Wonderland-Challenge/blob/main/Level%201/level_1_description.png"/>
+<p/>
+
+## Level 2
+
+`Dear Alice, the rest of the story is in the attached letter.
+  Only you and I can read it,
+  Of course the way to open it is your name.
+  In appreciation of Lyon playfair. `
+
+[The letter](https://github.com/AvivYaniv/Elbit-Alice-In-Wonderland-Challenge/blob/main/Level%202/cipher.txt)
+
+# Poster
+
+<p align="center">
+    <img src="https://github.com/AvivYaniv/Elbit-Alice-In-Wonderland-Challenge/blob/main/poster/poster.jpg" width="30%"/>
+<p/>
