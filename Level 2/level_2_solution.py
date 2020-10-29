@@ -43,14 +43,13 @@ class PlayFairCipher:
 
     @staticmethod
     def add_spaces_to_decrypted(encrypted_message, decrypted_message):
-        plain_with_spaces = []
-        k = 0
-        for c in encrypted_message:
-            if ' ' == c:
-                plain_with_spaces.append(' ')
+        plain_with_spaces   = [''] * len(encrypted_message)
+        decrypted_iterator  = iter(decrypted_message)
+        for i, e in enumerate(encrypted_message):
+            if ' ' == e:
+                plain_with_spaces[i] = ' '
             else:
-                plain_with_spaces.append(decrypted_message[k])
-                k += 1
+                plain_with_spaces[i] = decrypted_iterator.next()
         return ''.join(plain_with_spaces)
 
     def decrypt(self, encrypted_message):
