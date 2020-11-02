@@ -6,6 +6,8 @@
     <img src="https://github.com/AvivYaniv/Elbit-Alice-In-Wonderland-Challenge/blob/main/logo/ElbitLogo.png" width="30%"/>
 <p/>
 
+Solutions to all levels attached
+
 ## Level 1
 
 <p align="center">
