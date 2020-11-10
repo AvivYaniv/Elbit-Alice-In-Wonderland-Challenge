@@ -1,4 +1,4 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FAvivYaniv%2FElbit-Alice-In-Wonderland-Challenge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AvivYaniv.Elbit-Alice-In-Wonderland-Challenge.issue.1) <br/>
 
 # Elbit-Alice-In-Wonderland-Challenge
 
